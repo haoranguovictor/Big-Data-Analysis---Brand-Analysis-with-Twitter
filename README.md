@@ -12,18 +12,18 @@ Tweet Based Brand Analysis — Coca-Cola vs Pepsi
 |   +--Sentiment_Classifier_Prediction.ipynb
 |   +--tfidf_count.py
 +--tweet_crawl
-    +--got
-          +--...some sample module...
-    +--historical data.py
-    +--real_time.py
-    +--requirements.txt
+|   +--got
+|         +--...some sample module...
+|   +--historical data.py
+|   +--real_time.py
+|   +--requirements.txt
 +--visualization_code
-    +--coca_Tweets_month.ipynb
-    +--pepsi_Tweets_month.ipynb
-    +--coco cola vs pepsi.ipynb
-    +--line chart for coca and pepsi.ipynb
-    +--Tweets_count_analysis_coca.ipynb
-    +--Tweets_count_analysis-pepsi.ipynb
-    +--Read Me.md
+|   +--coca_Tweets_month.ipynb
+|   +--pepsi_Tweets_month.ipynb
+|   +--coco cola vs pepsi.ipynb
+|   +--line chart for coca and pepsi.ipynb
+|   +--Tweets_count_analysis_coca.ipynb
+|   +--Tweets_count_analysis-pepsi.ipynb
+|   +--Read Me.md
 ```
 
