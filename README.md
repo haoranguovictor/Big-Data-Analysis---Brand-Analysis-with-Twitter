@@ -1,6 +1,8 @@
 # Tweet Based Brand Analysis — Coca-Cola vs Pepsi
 Columbia University EECS6893 Big Data Final Project -- Haoran Guo (hg2461), Hao Fang(hf2345), Yamei Zhu(yz3167)
 
+Please see Technical Report.pdf for more details.
+
 ## Directory
 ```
 Tweet Based Brand Analysis — Coca-Cola vs Pepsi
