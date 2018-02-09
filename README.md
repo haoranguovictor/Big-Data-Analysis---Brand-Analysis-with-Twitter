@@ -4,7 +4,7 @@ Columbia University EECS6893 Big Data Final Project -- Haoran Guo (hg2461), Hao 
 Please see Technical Report.pdf for more details.
 Based on python, Spark, databricks.
 
-Haoran's contribution: 1. Leader of the project; 2. Data cleaning for tweets, with python. 3. Trained a naive bayes classifier for sentimental analysis. Do classification for tweets crawled online.
+Haoran's contribution: 1. Leader of the project; 2. Data cleaning for tweets, with python. 3. Trained a naive bayes classifier for sentimental analysis, using Spark. Do classification for tweets crawled online.
 
 ## Directory
 ```
